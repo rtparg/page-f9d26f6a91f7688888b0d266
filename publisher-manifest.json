@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "fcb12d970bc4b339247e3c3a",
+  "owner": "rtparg",
+  "repo": "page-f9d26f6a91f7688888b0d266",
+  "title": "MIMEMI",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f9d26f6a91f7688888b0d266",
+      "a": "MIMEMI",
+      "b": "免费订阅clash节点",
+      "entity": "MIMEMI",
+      "brand": "MIMEMI",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "9ba821d3dc398cb0a1bd240faf0c2420ccf2ac15cf5cb865079b8be91ac3969c",
+      "content": {
+        "primary_entity": "MIMEMI",
+        "keyword1": "MIMEMI",
+        "keyword2": "免费订阅clash节点",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备挑选客户端，订阅配置以各客户端文档为准。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好设备数量与流量档位，再对照客户端教程导入订阅。",
+          "AI_CLOSING_TITLE": "快速开始",
+          "AI_DESCRIPTION": "，围绕日常跨区访问、流媒体播放和游戏低延迟场景，提供基础版、旗舰版、团队版三档订阅。基础版每月 100GB 流量、支持 3 台设备在线；旗舰版每月 300GB 流量、支持 5 台设备，带 IPLC 专线优化；团队版每月 1000GB 流量、支持 20 台设备。用户可根据设备数与月流量需求选择，再按客户端文档配置订阅。",
+          "AI_FEATURES_INTRO": "从设备数量、月流量和订阅周期三个角度做选择。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台同时在线，按家中设备数挑。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TEXT_2": "每月 100GB、300GB、1000GB 三档，按视频与日常使用频率匹配。",
+          "AI_FEATURE_TITLE_2": "月流量",
+          "AI_FEATURE_TEXT_3": "月付灵活、年付更省，基础版年付 ¥150、旗舰版 ¥350、团队版 ¥850。",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "按选择服务、查看适配要求、配置订阅三步完成初步使用。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "MIMEMI 面向需要跨区访问的用户提供订阅型加速服务，套餐按设备数量与月流量区分。基础版适合单人或少量设备轻度使用，旗舰版增加 IPLC 专线与流媒体解锁，团队版提供大流量与多设备支持。选定套餐后，可参考对应客户端文档完成订阅导入与连接。",
+          "AI_HERO_SUBTITLE": "按设备与流量选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "旗舰版带 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "多设备在线满足家庭使用",
+          "AI_PLANS_INTRO": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备，含 IPLC 专线；团队版每月 1000GB、20 台设备，适合小团队共享。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量和月流量需求，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的在线设备数、流量额度以及系统适配说明。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "按照所用客户端文档导入订阅，完成连接后即可开始使用。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "MIMEMI 订阅选择",
+          "AI_FAQ_ANSWER_1": "按设备数量、每月流量和周期选。单人日常用基础版；游戏或 5 台设备用旗舰版；多人团队用团队版。",
+          "AI_FAQ_ANSWER_2": "基础版 3 台，旗舰版 5 台，团队版 20 台。可先按常用设备数选套餐，后续升级灵活。",
+          "AI_FAQ_ANSWER_3": "选择套餐后按对应客户端文档导入订阅链接即可。不同系统操作略有不同，请以客户端说明为准。",
+          "AI_FAQ_ANSWER_4": "年付通常比月付省两个月费用。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850。",
+          "AI_FAQ_ANSWER_5": "旗舰版含 IPLC 专线游戏加速优化和 7x24 优先工单支持，团队版另含 VIP 高带宽节点与企业定制路由。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "怎么根据需求选套餐版本？",
+          "AI_FAQ_QUESTION_2": "每个版本支持多少台设备？",
+          "AI_FAQ_QUESTION_3": "订阅如何导入客户端？",
+          "AI_FAQ_QUESTION_4": "月付和年付价格差多少？",
+          "AI_FAQ_QUESTION_5": "旗舰版比基础版多了什么？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "16b2512071b2f062d737762078707709a5e4e78fae09ea8f973991ebf003fd05",
+    "sitemap.xml": "f8432782ceef221dabebfceff3a15ee347547534ef24af6b1aa0c34603b1b0a9",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "30ba0f922c937b2501c7f4c2f371eeea4c6c1eade4b7eae2b42c4344a94fefed"
+}
